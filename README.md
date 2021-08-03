@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beedles
 - 👀 I’m interested in game development and improving my development skills
-- 🌱 I’m currently learning Godot/GDScript, PHP, Vue, Javascript
+- 🌱 I’m currently working in Godot/GDScript, PHP, Vue, Javascript
 - 💞️ I’m looking to collaborate on small games
 - 📫 How to reach me beedsta+github@gmail.com
 
